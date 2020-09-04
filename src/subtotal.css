@@ -1,0 +1,10 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding :20px;
+}
+.check{
+    background-color: #FFD814;
+    border :1px  solid;
+}

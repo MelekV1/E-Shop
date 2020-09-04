@@ -1,0 +1,15 @@
+.CheckoutProduct{
+    display: flex;
+}
+.CheckoutImage{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+.CheckoutInfo{
+    padding-left: 20px;
+}
+.CheckoutInfo >button{
+    background-color: #FFD814;
+    border :1px  solid;
+}
